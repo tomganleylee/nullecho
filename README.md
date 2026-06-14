@@ -2,7 +2,7 @@
 
 **Real-time acoustic echo cancellation for Windows — so your friends stop hearing themselves.**
 
-![Nullecho running](docs/screenshot.png)
+<p align="center"><img src="docs/screenshot.png" alt="Nullecho running" width="340"></p>
 
 If you talk on TeamSpeak / Discord / Zoom through **speakers** instead of headphones, your
 microphone picks up your friends' voices coming out of those speakers and sends them back —
